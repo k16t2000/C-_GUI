@@ -1,0 +1,10 @@
+C:\Users\37255\source\repos\AppMY\AppMY\bin\Debug\AppMY.exe.config
+C:\Users\37255\source\repos\AppMY\AppMY\bin\Debug\AppMY.exe
+C:\Users\37255\source\repos\AppMY\AppMY\bin\Debug\AppMY.pdb
+C:\Users\37255\source\repos\AppMY\AppMY\obj\Debug\AppMY.csprojAssemblyReference.cache
+C:\Users\37255\source\repos\AppMY\AppMY\obj\Debug\AppMY.Form1.resources
+C:\Users\37255\source\repos\AppMY\AppMY\obj\Debug\AppMY.Properties.Resources.resources
+C:\Users\37255\source\repos\AppMY\AppMY\obj\Debug\AppMY.csproj.GenerateResource.cache
+C:\Users\37255\source\repos\AppMY\AppMY\obj\Debug\AppMY.exe
+C:\Users\37255\source\repos\AppMY\AppMY\obj\Debug\AppMY.pdb
+C:\Users\37255\source\repos\AppMY\AppMY\obj\Debug\AppMY.Form2.resources
